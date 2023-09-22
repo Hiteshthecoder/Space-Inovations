@@ -7,7 +7,7 @@ From the start, StellarIndia has been developed to be light-weight, fast and eas
 
 This project has been built using the Flutter framework, which allows to build an app for mobile, desktop & web, from a single codebase.
 
-## Screenshots
+## Screenshots Of The App.
 
 ![App Screenshot](/Screenshots/ScreenshotCombined.png)
 
